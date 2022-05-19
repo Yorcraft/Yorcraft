@@ -1,6 +1,5 @@
 Hello I'm Vincent, student from germany.
-You can contact me via e-mail: yorcraft@gmx.de  
-BlueJ Projects from school:   
+You can contact me via e-mail: yorcraft@gmx.de   
 ## Statistics
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Yorcraft&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
